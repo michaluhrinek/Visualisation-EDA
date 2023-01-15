@@ -1,2 +1,3 @@
 # Visualisation-EDA
 Visualisation of data with : plots, bars, scatterplots, charts, heatmaps &amp; Exploratory Data Analysis of data.
+EDA stands for Exploratory Data Analysis. It is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. EDA is a crucial step in the data science process as it allows to understand the structure of the data and identify patterns, outliers, and any peculiarities that can affect further analysis. It is an iterative process where one can explore the data, generate hypotheses and test them using statistical methods and visualization techniques
